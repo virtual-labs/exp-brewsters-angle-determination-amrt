@@ -1,1 +1,1 @@
-## Experiment name
+## Brewsters Angle determination
