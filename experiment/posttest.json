@@ -2,37 +2,39 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Which among the following shows the transverse wave nature of light?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Diffraction of light through a single slit",
+        "b": "Interference of light in a thin soap film",
+        "c": "Polarisation of light through selective absorption",
+        "d": "Refraction of light through a glass plate"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which among the following processes cannot be used to produce linearly polarised light?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Scattering",
+        "b": "Diffraction",
+        "c": "Double refraction",
+        "d": "Reflection"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+    
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At Brewster's angle, the reflected light will be________.",
+      "answers": {
+        "a": "Linearly polarized",
+        "b": "Partially polarized",
+        "c": "Plane polarized",
+        "d": "None of these"
       },
-      "correctAnswer": "c",
+     
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
