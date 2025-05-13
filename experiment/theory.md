@@ -17,8 +17,8 @@ A light is said to be a plane polarised light, if all the vibrations are confine
 Sir David Brewster, in 1892, found that the maximum polarization of the reflected ray occurs  when the reflected ray is perpendicular to the refracted ray.  This is called the  Brewster's law.
 
 $$r=90^{0}-\theta_{B}$$
-
- <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;">
+<div style="text-align: center;">
+ <img src="./images/figure2.jpg" alt="Figure 2" style="max-width: 300px; height: auto;"></div>
 
    ### Brewster's equation
 
