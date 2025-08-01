@@ -1,0 +1,41 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Which among the following shows the transverse wave nature of light?",
+      "answers": {
+        "a": "Diffraction of light through a single slit",
+        "b": "Interference of light in a thin soap film",
+        "c": "Polarisation of light through selective absorption",
+        "d": "Refraction of light through a glass plate"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which among the following processes cannot be used to produce linearly polarised light?",
+      "answers": {
+        "a": "Scattering",
+        "b": "Diffraction",
+        "c": "Double refraction",
+        "d": "Reflection"
+      },
+    
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "At Brewster's angle, the reflected light will be________.",
+      "answers": {
+        "a": "Linearly polarized",
+        "b": "Partially polarized",
+        "c": "Plane polarized",
+        "d": "None of these"
+      },
+     
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
